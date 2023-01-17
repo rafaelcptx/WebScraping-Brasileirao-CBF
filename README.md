@@ -13,8 +13,8 @@ Caso não esteja no diretório correto use o seguinte comando: ```cd WebScraping
    Após se certificar execute ```npm install``` para instalar as dependências (Axios e Cheerio).
 
 - Importe as funções para seu arquivo .js de destino: <br>
-    ```const getYearData = require("diretório/getYearData");``` <br>
-    ```const getRoundResult = require("diretório/getRoundResult");```
+    ```const getYearData = require("./getYearData");``` <br>
+    ```const getRoundResult = require("./getRoundResult");```
 
 E ta pronto pra usar!<br>
 - Funções: <br><br>

@@ -19,4 +19,11 @@ Caso não esteja no diretório correto use o seguinte comando: ```cd WebScraping
 E ta pronto pra usar!<br>
 - Funções: <br><br>
 ```getYearData(ano, serie)``` Recebe como parâmetro o Ano do campeonato e a Série ("a" ou "b"), retorna um Array de objetos com todos os dados de acordo com a tabela de classificação... dados: time, url da imagem do escudo, ano do campeonato, série, pontos, jogos, vitórias derrotas e empates, gols feitos, gols sofridos e mais...<br><br>
-```getRoundResult(ano, rodada, serie)``` Recebe como parâmetro o Ano do campeonato, a rodada que deseja e a Série do campeonato ("a" ou "b"), retorna um Array de objetos com os resultados da rodada... dados: ano do campeonato, série, rodada, número do jogo, sigla dos times, placar, gols de cada time, resultado e vencedor de cada partida.
+```getRoundResult(ano, rodada, serie)``` Recebe como parâmetro o Ano do campeonato, a rodada que deseja e a Série do campeonato ("a" ou "b"), retorna um Array de objetos com os resultados da rodada... dados: ano do campeonato, série, rodada, número do jogo, sigla dos times, placar, gols de cada time, resultado e vencedor de cada partida.<br><br>
+
+Lembre-se de colocar os diretórios corretamente e caminhar com o ```cd``` até o diretório que está seu principal arquivo .js para executar com o node.
+
+Bons estudos!<br><br>
+Aproveite! e seu curtiu deixa uma ⭐ no repositório 😁.<br><br>
+Caso tenha alguma dúvida ou ideia para melhorar o projeto não hesite em entrar em contato.<br><br>
+https://linktr.ee/rafaelcptx

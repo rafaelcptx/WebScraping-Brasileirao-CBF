@@ -9,6 +9,7 @@ Para usar você precisa do **NodeJs** e do **NPM** instalados na sua máquina.
 
 - No projeto que você vai usar abra seu terminal e execute: <br><br>
 Antes de executar o comando abaixo se certifique de que seu terminal está no diretório correto, terminado em:<br>"\WebScraping-Brasileirao-CBF".<br><br>
+Caso não esteja no diretório correto use o seguinte comando: ```cd WebScraping-Brasileirao-CBF```<br><br>
    Após se certificar execute ```npm install``` para instalar as dependências (Axios e Cheerio).
 
 - Importe as funções para seu arquivo .js de destino: <br>

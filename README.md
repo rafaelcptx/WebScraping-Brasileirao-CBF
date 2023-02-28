@@ -1,5 +1,5 @@
 # WebScraping Brasileirão CBF
-## Obtenha dados sobre o Brasileirão direto do site da CBF em {objeto} para usar nos seus projetos.
+## Obtenha dados sobre o Brasileirão direto do site da CBF em JSON para usar nos seus projetos.
 
 <img src="https://user-images.githubusercontent.com/109367845/212968375-2cd92c70-52a6-4fcc-b16b-c646865c3e83.png"/>
 
